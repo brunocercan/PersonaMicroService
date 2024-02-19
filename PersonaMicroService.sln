@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Persona3", "API.Persona3\API.Persona3.csproj", "{812DFB3D-E0C9-4EDA-B811-9DADE6A2D5FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Persona3", "API.Persona3\API.Persona3.csproj", "{812DFB3D-E0C9-4EDA-B811-9DADE6A2D5FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Persona4", "API.Persona4\API.Persona4.csproj", "{97A9A0D2-941D-4260-81C7-7AE543AC9F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Persona5", "API.Persona5\API.Persona5.csproj", "{CC99C67C-8814-40DF-A4FB-DFCD1C615BC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{812DFB3D-E0C9-4EDA-B811-9DADE6A2D5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{812DFB3D-E0C9-4EDA-B811-9DADE6A2D5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{812DFB3D-E0C9-4EDA-B811-9DADE6A2D5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A9A0D2-941D-4260-81C7-7AE543AC9F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A9A0D2-941D-4260-81C7-7AE543AC9F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A9A0D2-941D-4260-81C7-7AE543AC9F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A9A0D2-941D-4260-81C7-7AE543AC9F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC99C67C-8814-40DF-A4FB-DFCD1C615BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC99C67C-8814-40DF-A4FB-DFCD1C615BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC99C67C-8814-40DF-A4FB-DFCD1C615BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC99C67C-8814-40DF-A4FB-DFCD1C615BC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+@API.Persona4_HostAddress = http://localhost:5081
+
+GET {{API.Persona4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
