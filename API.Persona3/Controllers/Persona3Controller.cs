@@ -7,18 +7,18 @@ namespace API.Persona3.Controllers
     [ApiController]
     public class Persona3Controller : ControllerBase
     {
-        [HttpGet, Route("p3r/{data}")]
-        public Models.ClassAnswer.Response GetAnswerP3R(string data)
+        [HttpGet, Route("p3r/{month}/{day}")]
+        public Models.ClassAnswer.Response GetAnswerP3R(string month, int day)
         {
             var answer = new Models.ClassAnswer.Response();
             var bl = new BusinessLayer.PersonaBL();
             try
             {
-                answer = bl.GetP3RAnswer(data);
+                answer = bl.GetP3RAnswer(month, day);
             }
-            catch (Exception)
+            catch (Exception e)
             {
-                throw;
+                answer.error = e.Message;
             }
             return answer;
         }
