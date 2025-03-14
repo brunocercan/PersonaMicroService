@@ -9,7 +9,7 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["API.Persona3/API.Persona3.csproj", "API.Persona3/"]
+COPY ["./API.Persona3/API.Persona3.csproj", "API.Persona3/"]
 RUN dotnet restore "./API.Persona3/API.Persona3.csproj"
 COPY . .
 WORKDIR "/src/API.Persona3"
