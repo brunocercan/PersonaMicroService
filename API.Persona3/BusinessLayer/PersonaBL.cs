@@ -32,7 +32,7 @@ namespace API.Persona3.BusinessLayer
             var response = new Models.ClassAnswer.Response();
             try
             {
-                var questao = lista.Questions.Where(x => x.Month == mes && x.Day == dia).First();
+                var questao = lista.Questions.Where(x => x.Month.ToLower() == mes.ToLower() && x.Day == dia).First();
 
                 response = new Models.ClassAnswer.Response()
                 {
