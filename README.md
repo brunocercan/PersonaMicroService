@@ -2,7 +2,7 @@
 Microserviços de Persona para consultar as respostas de classe dos dias de aula dos jogos Persona 3 Reload, Persona 4 Golden e Persona 5 Royal
 # Persona 3 Reload
 - 100% concluído, deploy: https://persona3.onrender.com
-- Modo de uso: endpoint https://persona3.onrender.com/class/p3r/{mes}/{dia}; Exemplo: https://persona3.onrender.com/class/p3r/october/30
+- Modo de uso: endpoint https://persona3.onrender.com/class/p3r/{mes}/{dia}; Exemplo-GET: https://persona3.onrender.com/class/p3r/october/30
 - Exemplo do retorno:
 ```
 {
