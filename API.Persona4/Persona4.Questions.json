@@ -1,0 +1,436 @@
+{
+  "Questions": [
+    {
+      "Month": "April",
+      "Day": 14,
+      "Query": "“What is the year before 1 AD called?”",
+      "Answer": "“1 BC.” (#2)"
+    },
+    {
+      "Month": "April",
+      "Day": 18,
+      "Query": "“The word ‘alphabet’ comes from the word ‘alpha’ and what other one?”",
+      "Answer": "“Beta.” (#3)"
+    },
+    {
+      "Month": "April",
+      "Day": 20,
+      "Query": "“Yosuke: C’mon, man, help me here!” (How many parts are there in Murakami’s ‘The Wind-Up Bird Chronicle’?)",
+      "Answer": "“Three.” (#2)"
+    },
+    {
+      "Month": "April",
+      "Day": 23,
+      "Query": "“Yosuke: What’s this ergonomic bubble she’s asking about?” (What was the first economic bubble incident in the world?)",
+      "Answer": "“Tulip mania.” (#4)"
+    },
+    {
+      "Month": "April",
+      "Day": 25,
+      "Query": "“What’s it called when you gain more muscle after getting sore through exercise?”",
+      "Answer": "“Overcompensation.” (#2)"
+    },
+    {
+      "Month": "April",
+      "Day": 26,
+      "Query": "“Chie: I don’t think I’ve heard of any of these?” (Which property of whole numbers doesn’t exist?)",
+      "Answer": "“Marriage numbers.” (#3)"
+    },
+    {
+      "Month": "April",
+      "Day": 30,
+      "Query": "“What is the greatest canyon in the solar system?”",
+      "Answer": "“Valles Marineris.” (#2)"
+    },
+    {
+      "Month": "May",
+      "Day": 7,
+      "Query": "“Do you know how Soseki Natsume translated the English phrase ‘I love you’ into Japanese?”",
+      "Answer": "“The moon is beautiful, isn’t it?” (#4)"
+    },
+    {
+      "Month": "May",
+      "Day": 9,
+      "Query": "Midterm (Day One) Q1: “What is it called when muscles grow after exercise?” Q2: “What is the year before 1 AD called?”",
+      "Answer": "Q1: “Overcompensation.” (#2) Q2: “1 BC.” (#3)"
+    },
+    {
+      "Month": "May",
+      "Day": 10,
+      "Query": "Midterm (Day Two) Q1: “Which of these numbers does not exist?” Q2: “Who translated ‘I love you’ as ‘The moon is beautiful, isn’t it?’”",
+      "Answer": "Q1: “Marriage numbers.” (#3) Q2: “Soseki Natsume.” (#1)"
+    },
+    {
+      "Month": "May",
+      "Day": 11,
+      "Query": "Midterm (Day Three) Q1: “Who said, ‘As soon as laws are necessary for men, they are no longer fit for freedom’?” Q2: “Which of the following is the highest mountain in the solar system?”",
+      "Answer": "Q1: “Pythagoras.” (#4) Q2: “Olympus Mons.” (#4)"
+    },
+    {
+      "Month": "May",
+      "Day": 26,
+      "Query": "“Tell me how the theory that the pyramids were built by slaves was disproven!”",
+      "Answer": "“Attendance logs.” (#3)"
+    },
+    {
+      "Month": "June",
+      "Day": 8,
+      "Query": "“Yukiko: What sport is ‘heikin-dai’?”",
+      "Answer": "“Balance beam.” (#1)"
+    },
+    {
+      "Month": "June",
+      "Day": 13,
+      "Query": "“What kind of exercise is a sprint classified as?”",
+      "Answer": "“Anaerobics.” (#1)"
+    },
+    {
+      "Month": "June",
+      "Day": 15,
+      "Query": "“Tell me what morale is!”",
+      "Answer": "“Cheerfulness of a group.” (#3)"
+    },
+    {
+      "Month": "June",
+      "Day": 20,
+      "Query": "“What period did Japan first implement bonus pay?”",
+      "Answer": "“Meiji.” (#2)"
+    },
+    {
+      "Month": "June",
+      "Day": 27,
+      "Query": "“Answer this: What is identity?”",
+      "Answer": "“Individuality.” (#3)"
+    },
+    {
+      "Month": "June",
+      "Day": 30,
+      "Query": "“Which one of these is the name of a real river?”",
+      "Answer": "“Pis Pis River.” (#2)"
+    },
+    {
+      "Month": "July",
+      "Day": 4,
+      "Query": "“Who said this: ‘Man is but a reed, the most feeble thing in nature; but he is a thinking reed’?”",
+      "Answer": "“Pascal.” (#1)"
+    },
+    {
+      "Month": "July",
+      "Day": 7,
+      "Query": "“What is the beginning of ‘Gakumon no Susume’ a reference to?”",
+      "Answer": "“The U.S. Declaration of Independence.” (#3)"
+    },
+    {
+      "Month": "July",
+      "Day": 13,
+      "Query": "“What is the medical term for brainfreeze?”",
+      "Answer": "“Sphenopalatine ganglioneuralgia.” (#3)"
+    },
+    {
+      "Month": "July",
+      "Day": 14,
+      "Query": "“Which famous Heian-era monk famously used a wrong version of this kanji?”",
+      "Answer": "“Kukai.” (#1)"
+    },
+    {
+      "Month": "July",
+      "Day": 15,
+      "Query": "“Which line can a typhoon never cross?”",
+      "Answer": "“The equator.” (#1)"
+    },
+    {
+      "Month": "July",
+      "Day": 16,
+      "Query": "“Tell me what makes the king of hearts look different from the other kings in a standard deck of cards.”",
+      "Answer": "“He has no mustache.” (#1)"
+    },
+    {
+      "Month": "July",
+      "Day": 19,
+      "Query": "Finals (Day One) Q1: “What is morale?” Q2: “What sport is ‘heikin-dai’?”",
+      "Answer": "Q1: “Cheerfulness in a group.” (#3) Q2: “Balance beam.” (#1)"
+    },
+    {
+      "Month": "July",
+      "Day": 20,
+      "Query": "Finals (Day Two) Q1: “It is said, ‘Even Kobo made mistakes in writing.’ Which kanji did he make a mistake on?” Q2: “In which period did Japan first implement bonus pay?”",
+      "Answer": "Q1: “The first one.” (#1) Q2: “Meiji.” (#2)"
+    },
+    {
+      "Month": "July",
+      "Day": 21,
+      "Query": "Finals (Day Three) Q1: “Which king in a deck of cards is missing a mustache?” Q2: “Who said this: ‘Man is but a reed, the most feeble thing in nature; but he is a thinking reed’?”",
+      "Answer": "Q1: “King of hearts.” (#3) Q2: “Pascal.” (#1)"
+    },
+    {
+      "Month": "July",
+      "Day": 22,
+      "Query": "Finals (Day Four) Q1: “Which one of these is the name of a real river?” Q2: “What is the beginning of ‘Gakumon no Susume’ a reference to?”",
+      "Answer": "Q1: “Pis Pis River.” (#3) Q2: “The U.S. Declaration of Independence.” (#3)"
+    },
+    {
+      "Month": "September",
+      "Day": 1,
+      "Query": "“‘Venison’ is the meat of which animal?”",
+      "Answer": "“All of the above.” (#4)"
+    },
+    {
+      "Month": "September",
+      "Day": 5,
+      "Query": "“Which of the following is a kigo for fall?”",
+      "Answer": "“Brisk.” (#1)"
+    },
+    {
+      "Month": "September",
+      "Day": 17,
+      "Query": "“How short was history’s shortest war?”",
+      "Answer": "“40 minutes.” (#1)"
+    },
+    {
+      "Month": "September",
+      "Day": 20,
+      "Query": "“What do you call somebody who’s between ninety and one hundred years old?”",
+      "Answer": "“A nonagenarian.” (#3)"
+    },
+    {
+      "Month": "September",
+      "Day": 28,
+      "Query": "“Chie: Do you know the answer?” (What part of the body contains the ‘Adam’s apple’?)",
+      "Answer": "“Throat.” (#3)"
+    },
+    {
+      "Month": "October",
+      "Day": 4,
+      "Query": "“Which of these sports also uses an anchor?”",
+      "Answer": "“Tug of war.” (#1)"
+    },
+    {
+      "Month": "October",
+      "Day": 5,
+      "Query": "“Yosuke: Did you know the answer?” (Where would you find Japan on a map made in a foreign country?)",
+      "Answer": "“The right edge.” (#2)"
+    },
+    {
+      "Month": "October",
+      "Day": 8,
+      "Query": "“Tell me what bird’s name means ‘coward’ in English!”",
+      "Answer": "“Chicken.” (#3)"
+    },
+    {
+      "Month": "October",
+      "Day": 11,
+      "Query": "“What did Napoleon have invented?”",
+      "Answer": "“Glass jars.” (#2)"
+    },
+    {
+      "Month": "October",
+      "Day": 12,
+      "Query": "“Do you know what vegetable was used to make the first jack-o’-lantern?”",
+      "Answer": "“Turnips.” (#1)"
+    },
+    {
+      "Month": "October",
+      "Day": 13,
+      "Query": "“What kind of fish was I talking about?”",
+      "Answer": "“Ojisan.” (#1)"
+    },
+    {
+      "Month": "October",
+      "Day": 14,
+      "Query": "Midterm (Day One) Q1: “What part of the body contains the ‘Adam’s apple’?” Q2: “Where would you find Japan on a map made in a foreign country?”",
+      "Answer": "Q1: “Throat.” (#3) Q2: “The right edge.” (#2)"
+    },
+    {
+      "Month": "October",
+      "Day": 15,
+      "Query": "Midterm (Day Two) Q1: “How short was history’s shortest war?” Q2: “‘Venison’ is the meat of what animal?”",
+      "Answer": "Q1: “40 minutes.” (#1) Q2: “All of the above.” (#4)"
+    },
+    {
+      "Month": "October",
+      "Day": 17,
+      "Query": "Midterm (Day Three) Q1: “What is the Japanese name for ‘panda’?” Q2: “Which bird is falsely known for being cowardly in the English phrase ‘to stick one’s head in the sand’?”",
+      "Answer": "Q1: “Black and white bears.” (#1) Q2: “Ostrich.” (#3)"
+    },
+    {
+      "Month": "October",
+      "Day": 18,
+      "Query": "Midterm (Day Four) Q1: “What was the name of the Wasan textbook that came out in the Edo period?” Q2: “What did Napoleon have invented?”",
+      "Answer": "Q1: “Math Girl.” (#3) Q2: “Glass jars.” (#2)"
+    },
+    {
+      "Month": "October",
+      "Day": 19,
+      "Query": "Midterm (Day Five) Q1: “Which season is the adjective ‘brisk’ a kigo for?” Q2: “What is ‘dragon’s blood’?”",
+      "Answer": "Q1: “Fall.” (#3) Q2: “Plant resin.” (#1)"
+    },
+    {
+      "Month": "November",
+      "Day": 1,
+      "Query": "“Tell me what the ‘figure’ in ‘figure skating’ refers to!”",
+      "Answer": "“Geometric shapes.” (#1)"
+    },
+    {
+      "Month": "November",
+      "Day": 4,
+      "Query": "“Yukiko: Sorry, I have no idea.” (What kind of bird is a ‘kanko-dori’?)",
+      "Answer": "“A cuckoo.” (#1)"
+    },
+    {
+      "Month": "November",
+      "Day": 7,
+      "Query": "“Which country do you think the South Pole belongs to?”",
+      "Answer": "“No country.” (#4)"
+    },
+    {
+      "Month": "November",
+      "Day": 11,
+      "Query": "“What desert is the Welwitschia from?”",
+      "Answer": "“Namib.” (#3)"
+    },
+    {
+      "Month": "November",
+      "Day": 17,
+      "Query": "“Is that even in a textbook? The roots of ‘bridal’? What…?”",
+      "Answer": "“Bride ale.” (#3)"
+    },
+    {
+      "Month": "November",
+      "Day": 22,
+      "Query": "“Do you know what an ‘atlas’ is?”",
+      "Answer": "“A book of maps.” (#3)"
+    },
+    {
+      "Month": "November",
+      "Day": 24,
+      "Query": "“0, 1, 1, 2, 3, 5, 8, 13… What is this sequence called?”",
+      "Answer": "“Fibonacci sequence.” (#1)"
+    },
+    {
+      "Month": "November",
+      "Day": 25,
+      "Query": "“There are over 130 ancient pyramids in Egypt, but do you know who’s buried in the biggest one?”",
+      "Answer": "“Khufu.” (#2)"
+    },
+    {
+      "Month": "November",
+      "Day": 26,
+      "Query": "“Which one of these is considered a ‘rice cake’?”",
+      "Answer": "“Mochi.” (#4)"
+    },
+    {
+      "Month": "November",
+      "Day": 28,
+      "Query": "Finals (Day One) Q1: “What does French food stem from?” Q2: “What does the ‘figure’ in ‘figure skating’ refer to?”",
+      "Answer": "Q1: “Italian food.” (#2) Q2: “Geometric shapes.” (#1)"
+    },
+    {
+      "Month": "November",
+      "Day": 29,
+      "Query": "Finals (Day Two) Q1: “Who is buried in the biggest pyramid in Egypt?” Q2: “What is a book of maps called?”",
+      "Answer": "Q1: “Khufu.” (#2) Q2: “Atlas.” (#2)"
+    },
+    {
+      "Month": "November",
+      "Day": 30,
+      "Query": "Finals (Day Three) Q1: “What word has the words ‘bride ale’ as its roots?” Q2: “What kind of bird is a ‘kanko-dori’?”",
+      "Answer": "Q1: “Bridal.” (#1) Q2: “A cuckoo.” (#1)"
+    },
+    {
+      "Month": "December",
+      "Day": 1,
+      "Query": "Finals (Day Four) Q1: “Which country does the South Pole belong to?” Q2: “0, 1, 1, 2, 3, 5, 8, 13… What is this sequence called?”",
+      "Answer": "Q1: “No country.” (#4) Q2: “The Fibonacci sequence.” (#1)"
+    },
+    {
+      "Month": "December",
+      "Day": 2,
+      "Query": "Finals (Day Five) Q1: “What desert is the Welwitschia found in?” Q2: “Which of these is considered a ‘rice cake’?”",
+      "Answer": "Q1: “Namib.” (#3) Q2: “Mochi.” (#4)"
+    },
+    {
+      "Month": "December",
+      "Day": 9,
+      "Query": "“Do you know what color a fuzzy-wuzzy polar bear’s fur really is?”",
+      "Answer": "“Transparent.” (#1)"
+    },
+    {
+      "Month": "December",
+      "Day": 10,
+      "Query": "“What determines whether a hair grows curly or straight?”",
+      "Answer": "“The cross-section.” (#2)"
+    },
+    {
+      "Month": "December",
+      "Day": 17,
+      "Query": "“Yosuke: Huh? What? I wasn’t listening… Help!” (What word has the words ‘bride ale’ as its roots?)",
+      "Answer": "“Compassion makes you look better.” (#3)"
+    },
+    {
+      "Month": "December",
+      "Day": 21,
+      "Query": "“Will you tell me if you know the answer?” (What is the Roman numeral for 7?)",
+      "Answer": "“VII.” (#3)"
+    },
+    {
+      "Month": "January",
+      "Day": 10,
+      "Query": "“Tell me, what are you supposed to put on top of a kagami mochi?”",
+      "Answer": "“An orange.” (#1)"
+    },
+    {
+      "Month": "January",
+      "Day": 14,
+      "Query": "“‘Toso’ is a traditional drink for the new year, but what does the name mean?”",
+      "Answer": "“Bury the demons.” (#2)"
+    },
+    {
+      "Month": "January",
+      "Day": 19,
+      "Query": "“In the Thai and Vietnamese zodiacs, which animal is used in place of the rabbit?”",
+      "Answer": "“Cat.” (#3)"
+    },
+    {
+      "Month": "January",
+      "Day": 25,
+      "Query": "“European snow in spring…? Do you know?” (What color is the snow that falls in Europe in the spring?)",
+      "Answer": "“Red.” (#1)"
+    },
+    {
+      "Month": "January",
+      "Day": 30,
+      "Query": "“What’s the next unit of measurement up from a terabyte?”",
+      "Answer": "“Petabyte.” (#3)"
+    },
+    {
+      "Month": "February",
+      "Day": 1,
+      "Query": "“What color were the pyramids originally?”",
+      "Answer": "“White.” (#2)"
+    },
+    {
+      "Month": "February",
+      "Day": 6,
+      "Query": "Advancement Finals (Day One) Q1: “The word ‘alphabet’ comes from the words ‘alpha’ and what other one?” Q2: “How was the theory that the pyramids were built by slaves disproven?”",
+      "Answer": "Q1: “Beta.” (#2) Q2: “Attendance logs.” (#1)"
+    },
+    {
+      "Month": "February",
+      "Day": 7,
+      "Query": "Advancement Finals (Day Two) Q1: “What drink name means ‘bury demons’?” Q2: “What is the medical term for brainfreeze?”",
+      "Answer": "Q1: “Toso.” (#4) Q2: “Sphenopalatine ganglioneuralgia.” (#3)"
+    },
+    {
+      "Month": "February",
+      "Day": 8,
+      "Query": "Advancement Finals (Day Three) Q1: “What is the Japanese zodiac equivalent to the ‘cat’ in the Thai and Vietnamese zodiacs?” Q2: “What vegetable was first used to make jack-o’-lanterns?”",
+      "Answer": "Q1: “Rabbit.” (#2) Q2: “Turnips.” (#1)"
+    },
+    {
+      "Month": "February",
+      "Day": 9,
+      "Query": "Advancement Finals (Day Four) Q1: “What color were the pyramids when they were first built?” Q2: “What gets mixed with snow in Europe that sometimes causes it to turn red?”",
+      "Answer": "Q1: “White.” (#2) Q2: “The Sahara Desert sand.” (#2)"
+    }
+  ]
+}

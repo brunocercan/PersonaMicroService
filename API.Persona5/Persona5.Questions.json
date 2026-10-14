@@ -1,0 +1,412 @@
+{
+  "Questions": [
+    {
+      "Month": "April",
+      "Day": 12,
+      "Query": "“Tell me what the Devil’s Dictionary defined as the chief factor in the progress of the human race.”",
+      "Answer": "“Villains.”"
+    },
+    {
+      "Month": "April",
+      "Day": 19,
+      "Query": "“Between A and B… which line seems longer…?”",
+      "Answer": "“They’re the same.”"
+    },
+    {
+      "Month": "April",
+      "Day": 23,
+      "Query": "“Between music, theatre and chariot racing, which sport did Nero win when he participated in the Olympics?”",
+      "Answer": "“All of them.”"
+    },
+    {
+      "Month": "April",
+      "Day": 25,
+      "Query": "Q1: “What’s that phrase meant to convey? ‘My country, right or wrong?’” Q2: “But the original meaning was different? So I guess it’d be something like…”",
+      "Answer": "Q1: “You unquestioningly support it.” Q2: “You have a duty to correct it.”"
+    },
+    {
+      "Month": "April",
+      "Day": 27,
+      "Query": "“Do you know the name of the theorem named after this number?”",
+      "Answer": "“Four color theorem.”"
+    },
+    {
+      "Month": "April",
+      "Day": 30,
+      "Query": "Q1: “First off, the ‘wunder’ part probably means…” Q2: “Next, the ‘kind’ part. That’s probably…” Q3: “So a ‘wunderkind’ would be…”",
+      "Answer": "Q1: “Wonder.” Q2: “Child.” Q3: “A prodigy.”"
+    },
+    {
+      "Month": "May",
+      "Day": 7,
+      "Query": "“So what’s the literal translation of the phrase ‘femme fatale’?”",
+      "Answer": "“Fatal woman.”"
+    },
+    {
+      "Month": "May",
+      "Day": 10,
+      "Query": "“You know the time period Yoshitsune was active in, don’t you?”",
+      "Answer": "“The Heian period.”"
+    },
+    {
+      "Month": "May",
+      "Day": 11,
+      "Query": "Midterm (Day One) Q1: “What historical figure inspired the term of ‘favoring the magistrate’?” Q2: “Yoshitsune had a brother, right? Oh, I think his name was…” Q3: “But they ended up coming into conflict. And in the end, when they had to oppose each other…” Q4: “That’s probably because people tend to sympathize less with figures in power, and sympathize more with…”",
+      "Answer": "Q1: “Minamoto no Yoshitsune.” Q2: “Minamoto no Yoritomo.” Q3: “Yoritomo won.” Q4: “The weak.”"
+    },
+    {
+      "Month": "May",
+      "Day": 12,
+      "Query": "Midterm (Day Two) Q1: “Which brain function is responsible for the phenomenon of seeing an illusion in this figure?” Q2: “Which of the following maps can you paint without any adjacent areas being the same color?”",
+      "Answer": "Q1: “Cognition.” Q2: “Both.”"
+    },
+    {
+      "Month": "May",
+      "Day": 13,
+      "Query": "Midterm (Day Three) Q1: “Name the book that defined malefactors as the chief factor in the progress of the human race.” Q2: “What character archetype refers to a mysterious and seductive woman, typically with ulterior motives?”",
+      "Answer": "Q1: “The Devil’s Dictionary.” Q2: “Femme fatale.”"
+    },
+    {
+      "Month": "May",
+      "Day": 16,
+      "Query": "“What do we call the phenomenon where believing in a treatment’s power is enough to improve your condition?”",
+      "Answer": "“The placebo effect.”"
+    },
+    {
+      "Month": "May",
+      "Day": 19,
+      "Query": "“Which famous ukiyo-e artist of the Edo period is said to have moved residence over 100 times?”",
+      "Answer": "“Katsushika Hokusai.”"
+    },
+    {
+      "Month": "May",
+      "Day": 21,
+      "Query": "“The golden ratio is 1:1.618, but do you know the silver ratio?”",
+      "Answer": "“1:1.414.”"
+    },
+    {
+      "Month": "May",
+      "Day": 23,
+      "Query": "Q1: “If we think about what these words have in common, then maybe ‘syn’ means…” Q2: “And ‘aisthesis,’ huh? That’s a little like the word aesthetics. I wonder if it means…” Q3: “So that means the full word basically means…”",
+      "Answer": "Q1: “Together.” Q2: “Senses.” Q3: “Senses coming together.”"
+    },
+    {
+      "Month": "May",
+      "Day": 26,
+      "Query": "“Do you know which author Leblanc borrowed from?”",
+      "Answer": "“Arthur Conan Doyle.”"
+    },
+    {
+      "Month": "May",
+      "Day": 31,
+      "Query": "“Do you know which peg-legged, parrot toting historical figure’s appearance became a visual shorthand for pirates?”",
+      "Answer": "“John Silver.”"
+    },
+    {
+      "Month": "June",
+      "Day": 4,
+      "Query": "“What do you think the name for this phenomenon is?” (Where you believe a person is good at everything just because they are good at one thing)",
+      "Answer": "“The halo effect.”"
+    },
+    {
+      "Month": "June",
+      "Day": 7,
+      "Query": "“The red king crab is biologically related to the hermit crab. So how is it different from a crab…? Do you know?”",
+      "Answer": "“The number of legs.”"
+    },
+    {
+      "Month": "June",
+      "Day": 8,
+      "Query": "“Where does totalitarianism take things a step further than authoritarianism?”",
+      "Answer": "“Controlling public thought.”"
+    },
+    {
+      "Month": "June",
+      "Day": 13,
+      "Query": "“…What color do you think it turns?”",
+      "Answer": "“Green.”"
+    },
+    {
+      "Month": "June",
+      "Day": 15,
+      "Query": "“Between paper bills and coins, which one is issued by the government?”",
+      "Answer": "“Coins.”"
+    },
+    {
+      "Month": "June",
+      "Day": 20,
+      "Query": "“What do you think? One of these has minor metals in it, right?”",
+      "Answer": "“Smartphone.”"
+    },
+    {
+      "Month": "June",
+      "Day": 23,
+      "Query": "“Now, do you know what this woman’s position was?”",
+      "Answer": "“A pope.”"
+    },
+    {
+      "Month": "June",
+      "Day": 27,
+      "Query": "“Which of these animals is involved in an English idiom about the weather?”",
+      "Answer": "“Dogs.”"
+    },
+    {
+      "Month": "June",
+      "Day": 29,
+      "Query": "“What do you think it says on the back of this piece?”",
+      "Answer": "“Gold.”"
+    },
+    {
+      "Month": "July",
+      "Day": 1,
+      "Query": "“What’s the meaning of the original Chinese phrase that these dumplings’ name came from?”",
+      "Answer": "“Barbarian’s head.”"
+    },
+    {
+      "Month": "July",
+      "Day": 4,
+      "Query": "“Two people are responsible for July and August having 31 days. Do you know who those people are?”",
+      "Answer": "“Julius and Augustus.”"
+    },
+    {
+      "Month": "July",
+      "Day": 7,
+      "Query": "Q1: “So Tanabata’s about gods crossing a starry sky to reunite once every year. It might have something to do with…” Q2: “What’s the traditional food of Tanabata?”",
+      "Answer": "Q1: “The Milky Way.” Q2: “Soumen.”"
+    },
+    {
+      "Month": "July",
+      "Day": 9,
+      "Query": "“Do you know what shape it is?”",
+      "Answer": "“A triangle.”"
+    },
+    {
+      "Month": "July",
+      "Day": 11,
+      "Query": "Q1: “What is long-term memory, anyway?” Q2: “Maruki mentioned something about the amount of memories you could store, right? Something like…” Q3: “If you have theoretically infinite space for them… then theoretically, you’d be able to retain them for…”",
+      "Answer": "Q1: “Memories that last a long time.” Q2: “Infinite.” Q3: “Forever.”"
+    },
+    {
+      "Month": "July",
+      "Day": 12,
+      "Query": "“Do you know what he did?”",
+      "Answer": "“Thievery.”"
+    },
+    {
+      "Month": "July",
+      "Day": 13,
+      "Query": "Finals (Day One) Q1: “If angle C is 28 degrees, and angles A and D are 88 degrees, what is the angle of B and E?” Q2: “I think this came up in class. They were invented by that famous guy from Romance of the Three Kingdoms, right?” Q3: “And they were offering something to quell the river…” Q4: “This master strategist came up with the baozi to…”",
+      "Answer": "Q1: “64 degrees.” Q2: “Zhuge Liang.” Q3: “Barbarians’ heads.” Q4: “To offer them instead of heads.”"
+    },
+    {
+      "Month": "July",
+      "Day": 14,
+      "Query": "Finals (Day Two) Q1: “Write the name and biological classification of this creature.” Q2: “What happened when the government issued paper and hard currencies in Japan for the first time?”",
+      "Answer": "Q1: “Red king crab (Paralithodes).” Q2: “It caused confusion in the economy.”"
+    },
+    {
+      "Month": "July",
+      "Day": 15,
+      "Query": "Finals (Day Three) Q1: “What is the English equivalent of the Norwegian idiom ‘raining witches’?” Q2: “Which of the following is another name for the soumen noodles traditionally eaten on Tanabata?”",
+      "Answer": "Q1: “Raining cats and dogs.” Q2: “Demon guts.”"
+    },
+    {
+      "Month": "September",
+      "Day": 3,
+      "Query": "“Each hand in this famous statue means something, but… do you know what the right represents?”",
+      "Answer": "“Prosperity.”"
+    },
+    {
+      "Month": "September",
+      "Day": 6,
+      "Query": "“Do you know the name of that phenomenon where the second hand looks like it’s stopped moving?”",
+      "Answer": "“Chronostasis.”"
+    },
+    {
+      "Month": "September",
+      "Day": 14,
+      "Query": "“What does a pawn shop offer that a secondhand shop doesn’t?”",
+      "Answer": "“Money loans for collateral.”"
+    },
+    {
+      "Month": "September",
+      "Day": 17,
+      "Query": "“What’s one of the origins for the phrase ‘cat got your tongue’?”",
+      "Answer": "“Cats eating human tongues.”"
+    },
+    {
+      "Month": "September",
+      "Day": 21,
+      "Query": "“Robot comes from a word in Czech. But where in Europe is the Czech Republic located?”",
+      "Answer": "“Central Europe.”"
+    },
+    {
+      "Month": "September",
+      "Day": 24,
+      "Query": "“How many white and black shapes are there respectively on a soccer ball?”",
+      "Answer": "“20 white, 12 black.”"
+    },
+    {
+      "Month": "September",
+      "Day": 28,
+      "Query": "Q1: “So ‘PVS’, referring to when you mistakenly think your phone is going off…” Q2: “The next part is the V part. That means it’d be ‘phantom…’ what?” Q3: “Last is the S. So if we have ‘phantom vibration’ so far…”",
+      "Answer": "Q1: “Phantom.” Q2: “Vibration.” Q3: “Syndrome.”"
+    },
+    {
+      "Month": "September",
+      "Day": 29,
+      "Query": "“But the fishermen of Nagaragawa are actually civil servants as well. So, tell me which sector they belong to.”",
+      "Answer": "“Imperial Household Agency.”"
+    },
+    {
+      "Month": "October",
+      "Day": 3,
+      "Query": "“If we use ‘three watermelons in the sun’ to visualize a certain matter’s size against the universe’s, what are the melons?”",
+      "Answer": "“Stars.”"
+    },
+    {
+      "Month": "October",
+      "Day": 6,
+      "Query": "“Now, do you know who invented this instrument?”",
+      "Answer": "“Joseph-Ignace Guillotin.”"
+    },
+    {
+      "Month": "October",
+      "Day": 11,
+      "Query": "“Which name was most commonly ascribed to shape B?”",
+      "Answer": "“Bouba.”"
+    },
+    {
+      "Month": "October",
+      "Day": 17,
+      "Query": "Midterm (Day One) Q1: “Counting both black and white surfaces, how many surfaces are there in total on a soccer ball?” Q2: “Didn’t the teacher say that the number of colors used to be different? Do you remember?” Q3: “Oh yeah, I remember. I think she said that unlike now, soccer games were broadcasted with…”",
+      "Answer": "Q1: “32 surfaces.” Q2: “It used to be one color.” Q3: “Black and white picture.”"
+    },
+    {
+      "Month": "October",
+      "Day": 18,
+      "Query": "Midterm (Day Two) Q1: “Who conducted executions using this device?” Q2: “What is the reason that most people cannot become a cormorant fisherman of Nagaragawa?”",
+      "Answer": "Q1: “Charles-Henri Sanson.” Q2: “It’s a hereditary profession.”"
+    },
+    {
+      "Month": "October",
+      "Day": 19,
+      "Query": "Midterm (Day Three) Q1: “What is the meaning of ‘robota,’ the etymological root of ‘robot’?” Q2: “Which of the following describes the density of stars in outer space?”",
+      "Answer": "Q1: “Slave labor.” Q2: “3 bees in all of Europe.”"
+    },
+    {
+      "Month": "October",
+      "Day": 22,
+      "Query": "“Now, tell me the total count for each column in this magic square.”",
+      "Answer": "“15.”"
+    },
+    {
+      "Month": "October",
+      "Day": 24,
+      "Query": "“From a psychological standpoint, what is a key reason our memories can differ from reality?”",
+      "Answer": "“Memory bias.”"
+    },
+    {
+      "Month": "November",
+      "Day": 2,
+      "Query": "“Can you tell me the meaning of the word ‘wack’ in the Thieves’ Cant?”",
+      "Answer": "“A share of stolen goods.”"
+    },
+    {
+      "Month": "November",
+      "Day": 4,
+      "Query": "“Clubs is a club, diamonds is a gem… So, what does a spade represent?”",
+      "Answer": "“A sword.”"
+    },
+    {
+      "Month": "November",
+      "Day": 8,
+      "Query": "“Tell me how old you have to be to listen in on a trial.”",
+      "Answer": "“Any age.”"
+    },
+    {
+      "Month": "November",
+      "Day": 10,
+      "Query": "“Do you know why it’s missing in the character for ‘crow’?”",
+      "Answer": "“Crow eyes are hard to see.”"
+    },
+    {
+      "Month": "November",
+      "Day": 12,
+      "Query": "“I wonder. Do you know why our voices sound so different over the phone?”",
+      "Answer": "“Because the voice is synthetic.”"
+    },
+    {
+      "Month": "November",
+      "Day": 14,
+      "Query": "“Tell me why that is.” (Why we get altitude sickness on high mountains)",
+      "Answer": "“Because of high altitude.”"
+    },
+    {
+      "Month": "November",
+      "Day": 15,
+      "Query": "“How was he punished?” (The famous thief Nezumi Kozo)",
+      "Answer": "“His head was put on display.”"
+    },
+    {
+      "Month": "November",
+      "Day": 17,
+      "Query": "“Do you know the name for this graph? Your hint is ‘snails’…”",
+      "Answer": "“Cochleoid.”"
+    },
+    {
+      "Month": "December",
+      "Day": 20,
+      "Query": "Finals (Day One) Q1: “Choose the graph that became the origin for the name for the Chinese yoyo known as a diabolo.” Q2: “He was a really famous thief from the Edo period, right? How much money did he steal, in the end?” Q3: “As a result, he was sentenced to…” Q4: “Criminals, especially famous criminals being paraded around, was mostly done for…”",
+      "Answer": "Q1: “D.” Q2: “Over one billion yen.” Q3: “Having his head displayed.” Q4: “Public performance.”"
+    },
+    {
+      "Month": "December",
+      "Day": 21,
+      "Query": "Finals (Day Two) Q1: “Which suit of cards represents the Holy Grail?” Q2: “According to Japanese judicial law, what is possible for even an infant to do in court?”",
+      "Answer": "Q1: “Hearts.” Q2: “Attend.”"
+    },
+    {
+      "Month": "December",
+      "Day": 22,
+      "Query": "Finals (Day Three) Q1: “What country refers to a person who controls politics behind the scenes as a ‘prime minister in black’?” Q2: “The Japanese word ‘dokyuu’ translates to ‘massive.’ What English word inspired the initial ‘do’ in dokyuu?”",
+      "Answer": "Q1: “Japan.” Q2: “Dreadnought.”"
+    },
+    {
+      "Month": "January",
+      "Day": 11,
+      "Query": "Q1: “What’s this phrase supposed to illustrate about the gods of Shinto?” Q2: “What’s that phrase again? The one about how many gods there are in Shinto…”",
+      "Answer": "Q1: “How numerous they are.” Q2: “The Eight Million Gods.”"
+    },
+    {
+      "Month": "January",
+      "Day": 14,
+      "Query": "“Where do you think the fictional land of ‘Ihatov’ is modeled after?”",
+      "Answer": "“Iwate.”"
+    },
+    {
+      "Month": "January",
+      "Day": 18,
+      "Query": "“What did the word ‘awful’ originally mean?”",
+      "Answer": "“Impressive.”"
+    },
+    {
+      "Month": "January",
+      "Day": 21,
+      "Query": "“Do you know what she’s stepping on?” (The woman in ‘The Gleaners’ painting reference)",
+      "Answer": "“A snake.”"
+    },
+    {
+      "Month": "January",
+      "Day": 24,
+      "Query": "Q1: “What does that mean when describing a person?” Q2: “So what kind of connotation would ‘salty’ have in that context?” Q3: “So with all that in mind, ‘salty’ probably means…”",
+      "Answer": "Q1: “Kind-hearted.” Q2: “Negative.” Q3: “Resentful.”"
+    },
+    {
+      "Month": "January",
+      "Day": 27,
+      "Query": "“How far did this study suggest personal happiness can spread?”",
+      "Answer": "“To friends of friends of friends.”"
+    }
+  ]
+}

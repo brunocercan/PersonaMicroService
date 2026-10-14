@@ -1,24 +1,24 @@
-﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Persona5.Controllers
 {
     [Route("class")]
     [ApiController]
-    public class Persona3Controller : ControllerBase
+    public class Persona5Controller : ControllerBase
     {
-        [HttpGet, Route("p5r/{data}")]
-        public Models.ClassAnswer.Response GetAnswerP3R(string data)
+        [HttpGet, Route("p5r/{month}/{day}")]
+        public Models.ClassAnswer.Response GetAnswerP5R(string month, int day)
         {
             var answer = new Models.ClassAnswer.Response();
             var bl = new BusinessLayer.PersonaBL();
             try
             {
-                answer = bl.GetP5RAnswer(data);
+                answer = bl.GetP5RAnswer(month, day);
             }
-            catch (Exception)
+            catch (Exception e)
             {
-                throw;
+                answer.error = e.Message;
             }
             return answer;
         }

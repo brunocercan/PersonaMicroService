@@ -1,4 +1,8 @@
-﻿namespace API.Persona5.BusinessLayer
+﻿using System.Text.Json.Serialization;
+using API.Persona5.Models;
+using Newtonsoft.Json;
+
+namespace API.Persona5.BusinessLayer
 {
     public class PersonaBL
     {
@@ -7,26 +11,13 @@
 
         }
 
-        public Models.ClassAnswer.Response GetP5RAnswer(string data)
+        public Models.ClassAnswer.Response GetP5RAnswer(string mes, int dia)
         {
             var response = new Models.ClassAnswer.Response();
             try
             {
-                var request = new Models.ClassAnswer.Request()
-                {
-                    data = data,
-                    game = "p5r"
-                };
-
-                var con = Environment.GetEnvironmentVariable("CONNECTION_STRING");
-
-                var repo = new DataLayer.PersonaRepository();
-                response = repo.GetP5RAnswer(request, con);
-
-                if (response.answer == "" || response.answer == null)
-                {
-                    response.error = "Answer not found this day";
-                }
+                var lista = LoadJson("Persona5.Questions.json");
+                response = SearchQuestion(lista, mes, dia);
             }
             catch (Exception e)
             {
@@ -34,6 +25,45 @@
                 throw;
             }
             return response;
+        }
+
+        private Models.ClassAnswer.Response SearchQuestion(Models.ClassAnswer.ConteudoJson lista, string mes, int dia)
+        {
+            var response = new Models.ClassAnswer.Response();
+            try
+            {
+                var questao = lista.Questions.Where(x => x.Month.ToLower() == mes.ToLower() && x.Day == dia).First();
+
+                response = new Models.ClassAnswer.Response()
+                {
+                    question = questao.Query,
+                    answer = questao.Answer,
+                    error = null,
+                };
+            }
+            catch (System.Exception)
+            {
+                response.error = "Date not found!";
+                return response;
+            }
+            return response;
+        }
+
+        private Models.ClassAnswer.ConteudoJson LoadJson(string v)
+        {
+            try
+            {
+                using (StreamReader r = new StreamReader(v))
+                {
+                    string json = r.ReadToEnd();
+                    Models.ClassAnswer.ConteudoJson questions = JsonConvert.DeserializeObject<Models.ClassAnswer.ConteudoJson>(json);
+                    return questions;
+                }
+            }
+            catch (System.Exception)
+            {
+                throw;
+            }
         }
     }
 }

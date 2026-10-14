@@ -12,7 +12,26 @@ Microserviços de Persona para consultar as respostas de classe dos dias de aula
 }
 ```
 
-# Persona 5 Royal
-- 30% fase de desenvolvimento
 # Persona 4 Golden
-- 30% fase de desenvolvimento
+- 100% concluído
+- Modo de uso: endpoint /class/p4g/{mes}/{dia}; Exemplo-GET: /class/p4g/april/18
+- Exemplo do retorno:
+```
+{
+    "question": "“The word ‘alphabet’ comes from the word ‘alpha’ and what other one?”",
+    "answer": "“Beta.” (#3)",
+    "error": null
+}
+```
+
+# Persona 5 Royal
+- 100% concluído
+- Modo de uso: endpoint /class/p5r/{mes}/{dia}; Exemplo-GET: /class/p5r/october/22
+- Exemplo do retorno:
+```
+{
+    "question": "“Now, tell me the total count for each column in this magic square.”",
+    "answer": "“15.”",
+    "error": null
+}
+```
